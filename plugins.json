@@ -1,0 +1,10 @@
+[
+    {
+        "content_type": "dates",
+        "arg_long_name": "dates",
+        "version": "1.0.0",
+        "help_message": "Extracts dates in formats MM/DD/YYYY, DD/MM/YYYY, and YYYY-MM-DD",
+        "regex": "((?:(?:0[1-9]|1[0-2])\\/(?:0[1-9]|[12][0-9]|3[01])\\/(?:19|20)\\d\\d)|(?:(?:0[1-9]|[12][0-9]|3[01])\\/(?:0[1-9]|1[0-2])\\/(?:19|20)\\d\\d)|(?:(?:19|20)\\d\\d\\-(?:0[1-9]|1[0-2])\\-(?:0[1-9]|[12][0-9]|3[01])))",
+        "source_url": "https://github.com/DataSurgeon-ds/ds-date-plugin/"
+    }
+]
